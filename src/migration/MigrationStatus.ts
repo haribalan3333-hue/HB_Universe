@@ -1,0 +1,7 @@
+export enum MigrationState {
+  IDLE = 'IDLE',
+  DETECTED = 'DETECTED',
+  IN_PROGRESS = 'IN_PROGRESS',
+  COMPLETED = 'COMPLETED',
+  FAILED = 'FAILED'
+}

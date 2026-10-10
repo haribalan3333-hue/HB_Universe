@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HB Universe</string>
+    <string name="title_activity_main">HB Universe</string>
+    <string name="package_name">com.hbuniverse.app</string>
+    <string name="custom_url_scheme">com.hbuniverse.app</string>
+</resources>

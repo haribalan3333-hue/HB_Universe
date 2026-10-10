@@ -69,3 +69,4 @@ test-results/
 uploads/
 tmp/
 temp/
+*.tsbuildinfo
